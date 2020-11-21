@@ -22,7 +22,7 @@
 * [Insert Into A Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree) *completed*
 * [Partition Labels](https://leetcode.com/problems/partition-labels)
 * [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree)
-* [Minimum Add to Make Parantheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)
+* [Minimum Add to Make Parantheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) *completed*
 
 ## Hard
 * [Valid Number](https://leetcode.com/problems/valid-number)
