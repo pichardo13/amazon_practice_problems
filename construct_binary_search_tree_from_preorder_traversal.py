@@ -11,7 +11,7 @@ class TreeNode:
         self.left = left
         self.right = right
 class Solution:
-    def bstFromPreorder(self, preorder: List[int]) -> TreeNode:
+    def bstFromPreorder(self, preorder):
         #make root with first item on list, insert rest of list
         return self.insert(TreeNode(preorder[0]), preorder[1:])
         
