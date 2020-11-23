@@ -16,7 +16,7 @@
 * [Sum of Nodes with Even Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent) *completed*
 * [Count of Number of Teams](https://leetcode.com/problems/count-number-of-teams) *completed*
 * [Binary Search Tree To Greatest Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree) *completed, MUST REVIEW*
-* [Encode and Decode TinyUrl](https://leetcode.com/problems/encode-and-decode-tinyurl)
+* [Encode and Decode TinyUrl](https://leetcode.com/problems/encode-and-decode-tinyurl) *completed*
 * [Construct Binary Search Tree From Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) *completed*
 * [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target) *completed*
 * [Insert Into A Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree) *completed*
