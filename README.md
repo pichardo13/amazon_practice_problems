@@ -35,3 +35,8 @@
 * [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) *completed usig PQ*
 * [Concatenated Words](https://leetcode.com/problems/concatenated-words) *hard af*
 * [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) *hard af*
+* [Find Median From Data Stream](https://leetcode.com/problems/find-median-from-data-stream)
+* [LFU Cache](https://leetcode.com/problems/lfu-cache)
+* [Integer to English Words](https://leetcode.com/problems/integer-to-english-words)
+* [Word Search II](https://leetcode.com/problems/word-search-ii)
+* [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)
