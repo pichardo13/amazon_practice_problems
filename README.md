@@ -24,7 +24,7 @@
 * [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree) *completed*
 * [Minimum Add to Make Parantheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) *completed*
 * [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree) *completed, BST*
-* [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board)
+* [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board) *complete*
 * [Find All Duplicates In An Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) *completed*
 * [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections)
 * [Delete Nodes and Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest) *completed, IMPORTANT*
