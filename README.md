@@ -26,7 +26,7 @@
 * [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree) *completed, BST*
 * [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board) *complete*
 * [Find All Duplicates In An Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) *completed*
-* [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections)
+* [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections) *completed*
 * [Delete Nodes and Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest) *completed, IMPORTANT*
 
 ## Hard
@@ -39,4 +39,4 @@
 * [LFU Cache](https://leetcode.com/problems/lfu-cache)
 * [Integer to English Words](https://leetcode.com/problems/integer-to-english-words)
 * [Word Search II](https://leetcode.com/problems/word-search-ii)
-* [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)
+* [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) *completed*
